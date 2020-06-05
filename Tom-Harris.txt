@@ -1,8 +1,4 @@
-// 1st  project
-https://codepen.io/TommyGunzz/pen/qBbWKbr
-// 2nd  project
-https://codepen.io/TommyGunzz/pen/GRoRzEQ
-
+https://codepen.io/TommyGunzz/pen/yLeymxK
 
 todays file-
     1. What is Semantic HTML? 
