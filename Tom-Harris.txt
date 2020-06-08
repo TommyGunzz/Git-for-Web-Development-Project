@@ -98,3 +98,5 @@ Stretch Questions
     - <p> <div> and <nav> are block by default.  <span> and <a> are inline by default.  <img> is inline-block by default.
     5. In your own words, explain the box model. What is the "fix" for the box model, in other words, how do we make all elements respect the width we've given them? 
     - The box model is the invisible frame around all elements going from the middle which is the content, then padding around the text for example, then the border around that and then the margin around this.  The fix is the box sizing: border-box line in css.
+
+Ok this will be the Correct Flow, add, commit, push..then I'll do a Pull request assign my TL as Reviewer and wait for them to merge my file..
